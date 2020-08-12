@@ -1,0 +1,12 @@
+{
+    "name": "evolutioncms/custom",
+    "require": {
+        "zeeyn/evocms-minifier": "1.1.*",
+        "zeeyn/evocms-custom-template": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "EvolutionCMS\\Legenda\\": "packages/legenda/src/"
+        }
+    }
+}

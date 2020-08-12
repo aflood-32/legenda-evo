@@ -1,0 +1,45 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="82px" height="77px">
+<defs>
+<filter id="Filter_0">
+    <feFlood flood-color="rgb(255, 255, 255)" flood-opacity="1" result="floodOut" />
+    <feComposite operator="atop" in="floodOut" in2="SourceGraphic" result="compOut" />
+    <feBlend mode="normal" in="compOut" in2="SourceGraphic" />
+</filter>
+
+</defs>
+<g filter="url(#Filter_0)">
+<path fill-rule="evenodd"  stroke-width="2px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M12.000,50.000 L77.000,50.000 L77.000,57.000 L12.000,57.000 L12.000,50.000 Z"/>
+<path fill-rule="evenodd"  stroke-width="2px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M19.000,11.000 L41.000,11.000 L41.000,52.000 L19.000,52.000 L19.000,11.000 Z"/>
+<path fill-rule="evenodd"  stroke-width="2px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M44.000,31.000 L73.000,31.000 L73.000,52.000 L44.000,52.000 L44.000,31.000 Z"/>
+<path fill-rule="evenodd"  stroke-width="2px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M44.000,11.000 L66.000,11.000 L66.000,33.000 L44.000,33.000 L44.000,11.000 Z"/>
+<path fill-rule="evenodd"  stroke-width="1px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M53.000,11.000 L57.000,11.000 L57.000,20.000 L53.000,20.000 L53.000,11.000 Z"/>
+<path fill-rule="evenodd"  stroke-width="1px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M53.000,27.000 L57.000,27.000 L57.000,33.000 L53.000,33.000 L53.000,27.000 Z"/>
+<path fill-rule="evenodd"  fill="rgb(0, 0, 0)"
+ d="M19.000,31.000 L41.000,31.000 L41.000,32.000 L19.000,32.000 L19.000,31.000 Z"/>
+<path fill-rule="evenodd"  fill="rgb(0, 0, 0)"
+ d="M19.721,29.997 L40.003,50.279 L39.279,51.003 L18.997,30.721 L19.721,29.997 Z"/>
+<path fill-rule="evenodd"  fill="rgb(0, 0, 0)"
+ d="M39.279,30.997 L18.997,51.279 L19.721,52.003 L40.003,31.721 L39.279,30.997 Z"/>
+<path fill-rule="evenodd"  fill="rgb(0, 0, 0)"
+ d="M19.721,10.997 L40.003,31.279 L39.279,32.003 L18.997,11.721 L19.721,10.997 Z"/>
+<path fill-rule="evenodd"  fill="rgb(0, 0, 0)"
+ d="M39.279,11.997 L18.997,32.279 L19.721,33.003 L40.003,12.721 L39.279,11.997 Z"/>
+<path fill-rule="evenodd"  fill="rgb(0, 0, 0)"
+ d="M12.000,5.000 L14.000,5.000 L14.000,57.000 L12.000,57.000 L12.000,5.000 Z"/>
+<path fill-rule="evenodd"  stroke-width="2px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M27.003,57.994 C30.871,57.994 34.006,61.129 34.006,64.997 C34.006,68.865 30.871,72.000 27.003,72.000 C23.135,72.000 20.000,68.865 20.000,64.997 C20.000,61.129 23.135,57.994 27.003,57.994 Z"/>
+<path fill-rule="evenodd"  stroke-width="2px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M62.005,58.010 C65.868,58.010 69.000,61.142 69.000,65.005 C69.000,68.868 65.868,72.000 62.005,72.000 C58.142,72.000 55.010,68.868 55.010,65.005 C55.010,61.142 58.142,58.010 62.005,58.010 Z"/>
+<path fill-rule="evenodd"  stroke-width="2px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M5.000,5.000 L14.000,5.000 L14.000,11.000 L5.000,11.000 L5.000,5.000 Z"/>
+</g>
+</svg>

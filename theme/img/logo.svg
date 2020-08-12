@@ -1,0 +1,41 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="206px" height="126px">
+<defs>
+<filter id="Filter_0">
+    <feFlood flood-color="rgb(4, 81, 134)" flood-opacity="1" result="floodOut" />
+    <feComposite operator="atop" in="floodOut" in2="SourceGraphic" result="compOut" />
+    <feBlend mode="normal" in="compOut" in2="SourceGraphic" />
+</filter>
+<filter id="Filter_1">
+    <feFlood flood-color="rgb(4, 81, 134)" flood-opacity="1" result="floodOut" />
+    <feComposite operator="atop" in="floodOut" in2="SourceGraphic" result="compOut" />
+    <feBlend mode="normal" in="compOut" in2="SourceGraphic" />
+</filter>
+<filter id="Filter_2">
+    <feFlood flood-color="rgb(194, 25, 1)" flood-opacity="1" result="floodOut" />
+    <feComposite operator="atop" in="floodOut" in2="SourceGraphic" result="compOut" />
+    <feBlend mode="normal" in="compOut" in2="SourceGraphic" />
+</filter>
+<linearGradient id="PSgrad_0" x1="0%" x2="0%" y1="100%" y2="0%">
+  <stop offset="0%" stop-color="rgb(20,92,142)" stop-opacity="1" />
+  <stop offset="100%" stop-color="rgb(66,134,180)" stop-opacity="1" />
+</linearGradient>
+
+</defs>
+<g filter="url(#Filter_0)">
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" transform="matrix( 0.38915379460572, 0, 0, 0.38953293528037,19.1750425544764, 80.0444327717454)" font-size="110.019px"><tspan font-size="110.019px" font-family="CopperplateCyrillic" font-weight="bold" fill="#000000">&#1051;&#1077;&#1075;&#1077;&#1085;&#1076;&#1072;</tspan></text>
+</g>
+<g filter="url(#Filter_1)">
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" transform="matrix( 0.38915379460572, 0, 0, 0.38953293528037,17.5480531652982, 117.29339935434)" font-size="36.006px"><tspan font-size="36.006px" font-family="CopperplateCyrillic" font-weight="bold" fill="#000000">&#1080;&#1085;&#1078;&#1077;&#1085;&#1077;&#1088;&#1085;&#1099;&#1077;&#32;&#1089;&#1080;&#1089;&#1090;&#1077;&#1084;&#1099;</tspan></text>
+</g>
+<g filter="url(#Filter_2)">
+<path fill-rule="evenodd"  fill="rgb(1, 1, 1)"
+ d="M135.398,65.458 L123.728,65.458 L116.726,65.458 C116.726,65.458 121.800,62.414 121.147,59.661 L102.527,17.834 L83.908,59.661 C83.255,62.414 88.329,65.458 88.329,65.458 L81.327,65.458 L69.657,65.458 L64.211,65.458 C69.468,62.930 72.315,58.937 73.673,56.436 L96.692,4.727 L96.681,4.702 L96.498,5.069 C96.498,5.069 96.585,4.861 96.600,4.519 L96.498,4.290 L96.498,3.758 C96.214,2.739 95.174,1.293 91.830,0.005 L96.498,0.005 L108.557,0.005 L113.225,0.005 C109.926,1.275 108.859,2.708 108.557,3.724 L108.557,4.290 L108.455,4.519 C108.470,4.861 108.557,5.069 108.557,5.069 L108.374,4.702 L108.362,4.727 L131.382,56.436 C132.740,58.936 135.586,62.930 140.844,65.458 L135.398,65.458 Z"/>
+</g>
+<path fill-rule="evenodd"  fill="rgb(1, 1, 1)"
+ d="M117.187,61.869 C115.613,63.364 113.569,64.989 113.569,64.989 L109.146,64.989 C109.146,64.989 113.569,61.999 113.569,59.920 C113.569,58.002 104.003,38.416 102.512,35.375 C101.020,38.416 91.447,58.002 91.447,59.920 C91.447,61.999 95.873,64.989 95.873,64.989 L91.447,64.989 C91.447,64.989 89.401,63.364 87.825,61.869 C86.249,60.375 87.423,58.360 87.423,58.360 L102.311,25.997 L102.713,25.997 L102.713,25.997 L102.713,25.998 L117.590,58.360 C117.590,58.360 118.762,60.375 117.187,61.869 Z"/>
+<path fill="url(#PSgrad_0)"
+ d="M117.187,61.869 C115.613,63.364 113.569,64.989 113.569,64.989 L109.146,64.989 C109.146,64.989 113.569,61.999 113.569,59.920 C113.569,58.002 104.003,38.416 102.512,35.375 C101.020,38.416 91.447,58.002 91.447,59.920 C91.447,61.999 95.873,64.989 95.873,64.989 L91.447,64.989 C91.447,64.989 89.401,63.364 87.825,61.869 C86.249,60.375 87.423,58.360 87.423,58.360 L102.311,25.997 L102.713,25.997 L102.713,25.997 L102.713,25.998 L117.590,58.360 C117.590,58.360 118.762,60.375 117.187,61.869 Z"/>
+</svg>

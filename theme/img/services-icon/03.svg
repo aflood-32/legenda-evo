@@ -1,0 +1,35 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="65px" height="80px">
+<defs>
+<filter id="Filter_0">
+    <feFlood flood-color="rgb(255, 255, 255)" flood-opacity="1" result="floodOut" />
+    <feComposite operator="atop" in="floodOut" in2="SourceGraphic" result="compOut" />
+    <feBlend mode="normal" in="compOut" in2="SourceGraphic" />
+</filter>
+
+</defs>
+<g filter="url(#Filter_0)">
+<path fill-rule="evenodd"  stroke-width="2px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M43.000,24.000 L51.000,24.000 L51.000,56.000 L43.000,56.000 L43.000,24.000 Z"/>
+<path fill-rule="evenodd"  stroke-width="2px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M59.109,19.000 L52.932,26.000 L41.060,26.000 L34.883,19.000 L34.000,19.000 L34.000,5.000 L42.000,5.000 L42.000,16.000 L52.000,16.000 L52.000,5.000 L60.000,5.000 L60.000,19.000 L59.109,19.000 Z"/>
+<path fill-rule="evenodd"  stroke-width="2px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M52.000,75.000 L52.000,64.000 L42.000,64.000 L42.000,75.000 L34.000,75.000 L34.000,61.000 L34.883,61.000 L41.060,54.000 L52.932,54.000 L59.109,61.000 L60.000,61.000 L60.000,75.000 L52.000,75.000 Z"/>
+<path fill-rule="evenodd"  stroke-width="2px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M10.000,47.000 L10.000,24.000 L18.000,24.000 L18.000,47.000 L10.000,47.000 Z"/>
+<path fill-rule="evenodd"  stroke-width="2px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M7.000,26.000 L7.000,15.000 L11.000,5.000 L17.000,5.000 L21.000,15.000 L21.000,26.000 L7.000,26.000 Z"/>
+<path fill-rule="evenodd"  stroke-width="2px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M9.909,45.000 L4.992,52.000 L23.000,52.000 L18.083,45.000 L9.909,45.000 Z"/>
+<path fill-rule="evenodd"  stroke-width="2px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M5.000,50.000 L5.000,71.000 L23.000,71.000 L23.000,50.000 L5.000,50.000 Z"/>
+<path fill-rule="evenodd"  stroke-width="1px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M5.000,50.000 L5.000,71.000 L12.000,71.000 L12.000,50.000 L5.000,50.000 Z"/>
+<path fill-rule="evenodd"  stroke-width="1px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M16.000,50.000 L16.000,71.000 L23.000,71.000 L23.000,50.000 L16.000,50.000 Z"/>
+<path fill-rule="evenodd"  stroke-width="2px" stroke="rgb(0, 0, 0)" fill="none"
+ d="M6.803,75.000 L4.990,69.000 L23.000,69.000 L21.186,75.000 L6.803,75.000 Z"/>
+</g>
+</svg>

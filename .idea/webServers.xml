@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4dddf12d-0ae6-47ad-a197-de61acde8c60" name="evo-test" url="http://68.183.216.174">
+        <fileTransfer host="68.183.216.174" port="22" rootFolder="/home/dda/web/blade3.ddaproduction.com/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
